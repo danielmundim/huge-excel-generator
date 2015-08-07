@@ -1,0 +1,14 @@
+C:\Users\daniel.rosa\Documents\GitHub\huge-excel-generator\HugeExcelGenerator\HugeExcelGenerator\bin\Debug\HugeExcelGenerator.exe.config
+C:\Users\daniel.rosa\Documents\GitHub\huge-excel-generator\HugeExcelGenerator\HugeExcelGenerator\bin\Debug\HugeExcelGenerator.exe
+C:\Users\daniel.rosa\Documents\GitHub\huge-excel-generator\HugeExcelGenerator\HugeExcelGenerator\bin\Debug\HugeExcelGenerator.pdb
+C:\Users\daniel.rosa\Documents\GitHub\huge-excel-generator\HugeExcelGenerator\HugeExcelGenerator\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\daniel.rosa\Documents\GitHub\huge-excel-generator\HugeExcelGenerator\HugeExcelGenerator\bin\Debug\Microsoft.CSharp.dll
+C:\Users\daniel.rosa\Documents\GitHub\huge-excel-generator\HugeExcelGenerator\HugeExcelGenerator\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\daniel.rosa\Documents\GitHub\huge-excel-generator\HugeExcelGenerator\HugeExcelGenerator\bin\Debug\System.Data.dll
+C:\Users\daniel.rosa\Documents\GitHub\huge-excel-generator\HugeExcelGenerator\HugeExcelGenerator\bin\Debug\System.dll
+C:\Users\daniel.rosa\Documents\GitHub\huge-excel-generator\HugeExcelGenerator\HugeExcelGenerator\bin\Debug\System.Xml.dll
+C:\Users\daniel.rosa\Documents\GitHub\huge-excel-generator\HugeExcelGenerator\HugeExcelGenerator\bin\Debug\System.Xml.Linq.dll
+C:\Users\daniel.rosa\Documents\GitHub\huge-excel-generator\HugeExcelGenerator\HugeExcelGenerator\bin\Debug\WindowsBase.dll
+C:\Users\daniel.rosa\Documents\GitHub\huge-excel-generator\HugeExcelGenerator\HugeExcelGenerator\obj\Debug\HugeExcelGenerator.csprojResolveAssemblyReference.cache
+C:\Users\daniel.rosa\Documents\GitHub\huge-excel-generator\HugeExcelGenerator\HugeExcelGenerator\obj\Debug\HugeExcelGenerator.exe
+C:\Users\daniel.rosa\Documents\GitHub\huge-excel-generator\HugeExcelGenerator\HugeExcelGenerator\obj\Debug\HugeExcelGenerator.pdb
